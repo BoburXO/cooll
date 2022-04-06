@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0b6c8f2a.css",
+    "main.js": "/static/js/main.5965e046.js",
+    "static/media/BgHeader.png": "/static/media/BgHeader.7800da781ff90de4249f.png",
+    "static/media/photo6.png": "/static/media/photo6.79f0924d13745782fe84.png",
+    "static/media/photo1.png": "/static/media/photo1.a1a5ccb4e07cc80f359c.png",
+    "static/media/photo2.png": "/static/media/photo2.fd159a72e0cc2eeb7628.png",
+    "static/media/photo3.png": "/static/media/photo3.216cf4d5a2e14b7761d0.png",
+    "static/media/model1.png": "/static/media/model1.4bd9d69e6f58a2fd2846.png",
+    "static/media/model2.png": "/static/media/model2.0ba2429c41f92ec04349.png",
+    "static/media/model3.png": "/static/media/model3.285abbc7f66cc49fd613.png",
+    "static/media/photo4.png": "/static/media/photo4.339639d961ab264a252a.png",
+    "static/media/model4.png": "/static/media/model4.b343c794ee116a48f3e8.png",
+    "static/media/photo5.png": "/static/media/photo5.d2465cbf941facfef9ad.png",
+    "static/media/second.png": "/static/media/second.3173d8334503a2f54f39.png",
+    "static/media/first.png": "/static/media/first.7cc6e59c675752d7aa4d.png",
+    "static/media/third.png": "/static/media/third.a90c186722df641c1d16.png",
+    "static/media/bg.png": "/static/media/bg.58505734a593863dcb2e.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/Vector.svg": "/static/media/Vector.66a0a186805313a47316f19d198f1f2e.svg",
+    "index.html": "/index.html",
+    "static/media/phone.svg": "/static/media/phone.3d80658dd8af72d11cb2e6e910d19053.svg",
+    "static/media/location.svg": "/static/media/location.37c2f5314f5a67350978e4cfbd1bc883.svg",
+    "static/media/gmail.svg": "/static/media/gmail.e73b43c1afb4cf0b40214ac916fcf31a.svg",
+    "static/media/time.svg": "/static/media/time.906377b6ce25ac2f2a1b4a099c4fc5a5.svg",
+    "main.0b6c8f2a.css.map": "/static/css/main.0b6c8f2a.css.map",
+    "main.5965e046.js.map": "/static/js/main.5965e046.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b6c8f2a.css",
+    "static/js/main.5965e046.js"
+  ]
+}
